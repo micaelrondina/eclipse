@@ -10,6 +10,7 @@ public class Ola {
 
 		for (int aux : n1) {
 			System.out.println(aux);
+			System.out.println("ISSO ae");
 		}
 	}
 }
